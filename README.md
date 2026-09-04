@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://avatars.githubusercontent.com/u/85831733?v=4" width="132" alt="Zero" />
-
 ### Z &nbsp;E &nbsp;R &nbsp;O &nbsp;L &nbsp;I &nbsp;T &nbsp;T &nbsp;E &nbsp;R
 
 **Meaningful work. Real freedom.**
