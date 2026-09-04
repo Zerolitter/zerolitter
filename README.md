@@ -65,7 +65,8 @@ Quality over quantity is the whole point for me. I'd rather ship one tool that a
 
 - Site — [zerolitter.net](https://www.zerolitter.net/)
 - Steam Workshop — [ZeroLitter333](https://steamcommunity.com/id/ZeroLitter333/)
-- GitHub — [@Zerolitter](https://github.com/Zerolitter)
+
+- Contact — [contact@zerolitter.net](contact@zerolitter.net)
 - Sponsor — [github.com/sponsors/Zerolitter](https://github.com/sponsors/Zerolitter)
 
 <div align="center">
