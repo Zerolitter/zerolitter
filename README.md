@@ -23,7 +23,7 @@ For the past 6–8 months I've gone all-in on learning how to actually work with
 
 Along the way I kept running into the same problem: agents constantly "relearn" a codebase from scratch every session — re-scanning files, re-guessing relationships, working off stale context. That's what pushed me to build Workspace Atlas, an open-source, local-first tool that gives coding agents a persistent, verified, evidence-backed understanding of a project instead of making them rediscover it every time.
 
-Alongside that, I've started experimenting with and optimizing local LLMs — running a setup called "Colibri" to tune and benchmark local models — to see how far efficient, self-hosted AI workflows can go without depending on the cloud.
+Alongside that, I've started experimenting with and optimizing local LLMs —ON-HOLD— running a setup called "Colibri" to tune and benchmark local models — to see how far efficient, self-hosted AI workflows can go without depending on the cloud.
 
 I've also had the chance to teach a few people in a modding community how to actually work with AI on their own projects, and I'm always happy to keep doing that with anyone curious. My first public projects came out of that same period of learning by building: my [Steam Workshop](https://steamcommunity.com/id/ZeroLitter333/) mods, and my first AI-built project — a config generator tool for a discontinued mod, an effort that now continues as a site documenting its development.
 
@@ -42,8 +42,6 @@ Quality over quantity is the whole point for me. I'd rather ship one tool that a
 | Workspace-Atlas <sub>soon</sub> | Persistent, verified map of project files, symbols, relationships and history for coding agents | Rust |
 | [OMP-Workspace-Governance](https://github.com/Zerolitter/OMP-Workspace-Governance) | Opt-in Oh My Pi extension for keeping AI-authored workspaces small, understandable, and reversible | JavaScript |
 | [CenterPoint](https://github.com/Zerolitter/CenterPoint) | Real-time screen magnification overlay with a fixed center-point crosshair for visibility in PC games | Python |
-| [ZedSpawnerTool](https://github.com/Zerolitter/ZedSpawnerTool) | Portable KF2 KFZedSpawner.ini generator with wave scaling, rarity buckets, and safety controls | PowerShell |
-| osrs-wiki-cache-utils <sub>soon</sub> | Build and search a local copy of the OSRS Wiki and decoded game cache | Rust |
 
 ### Tags
 
