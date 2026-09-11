@@ -39,7 +39,7 @@ Quality over quantity is the whole point for me. I'd rather ship one tool that a
 
 | Project | What it is | Lang |
 | :-- | :-- | :-- |
-| [Workspace-Atlas](https://github.com/Zerolitter/Workspace-Atlas)) | Persistent, verified map of project files, symbols, relationships and history for coding agents | Rust |
+| [Workspace-Atlas](https://github.com/Zerolitter/Workspace-Atlas) | Persistent, verified map of project files, symbols, relationships and history for coding agents | Rust |
 | [OMP-Workspace-Governance](https://github.com/Zerolitter/OMP-Workspace-Governance) | Opt-in Oh My Pi extension for keeping AI-authored workspaces small, understandable, and reversible | JavaScript |
 | [CenterPoint](https://github.com/Zerolitter/CenterPoint) | Real-time screen magnification overlay with a fixed center-point crosshair for visibility in PC games | Python |
 
